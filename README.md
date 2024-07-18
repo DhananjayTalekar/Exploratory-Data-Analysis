@@ -1,6 +1,6 @@
-Certainly! Below is a sample README file tailored for a project focused on Exploratory Data Analysis (EDA) of laptop pricing and used cars pricing datasets. This README file outlines the objectives, steps, and details involved in analyzing individual features, visualizing patterns, performing descriptive statistical analysis, correlation analysis, and grouping.
 
-```markdown
+
+
 # Exploratory Data Analysis (EDA) of Laptop Pricing and Used Car Pricing Datasets
 
 ## Project Overview
